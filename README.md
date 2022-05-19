@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pmumerkhan
-- 👀 I’m interested in ... AI & Big Data
+- 👀 I’m interested in ... Computer Science
 - 🌱 I’m currently learning python ....
 - 💞️ I’m looking to collaborate on ... small projects entery level
 - 📫 How to reach me ... https://www.linkedin.com/in/pmumerkhan/
